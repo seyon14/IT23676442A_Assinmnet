@@ -1,4 +1,4 @@
-# IT23665002_ITPM-ASSIGNMEN01
+# IT23676442_ITPM-ASSIGNMENT01
 # Test Automation UI
 
 This project contains a Playwright automation test for checking image preview functionality in Pixelssuite.
@@ -6,7 +6,7 @@ This project contains a Playwright automation test for checking image preview fu
 ## Install dependencies
 
 python -m pip install -U pip
-python -m pip install playwright openpyxl
+python -m pip install playwright
 python -m playwright install
 
 ## Run test
